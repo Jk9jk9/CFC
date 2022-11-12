@@ -107,7 +107,7 @@
             "ratPot" : "91",
             "ratTalent" : "68",
             "baselinePrestige" : "75",
-            "name" : "Gus Malzahn",
+            "name" : "Adam Smith",
             "contractYear" : "2"
           },
           "name" : "Auburn Tigers",
