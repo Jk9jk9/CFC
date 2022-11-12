@@ -1274,7 +1274,7 @@
           "abbreviation" : "USF",
           "prestige" : "60",
           "hexColor" : "#003A00",
-          "rival" : "RUT",
+          "rival" : "USF",
           "headCoach" : {
             "contractLength" : "2",
             "startYear" : "2020",
@@ -1296,7 +1296,7 @@
           "abbreviation" : "RUT",
           "prestige" : "75",
           "hexColor" : "#FC0016",
-          "rival" : "USF",
+          "rival" : "TEM",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
@@ -2070,21 +2070,21 @@
         },
         {
           "abbreviation" : "UCF",
-          "prestige" : "75",
+          "prestige" : "85",
           "hexColor" : "#CDAA7F",
-          "rival" : "TEM",
+          "rival" : "USF",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
             "age" : "55",
-            "ratOff" : "71",
+            "ratOff" : "86",
             "cumulativePrestige" : "-11",
-            "ratDef" : "70",
+            "ratDef" : "82",
             "homeState" : "Minnesota",
-            "ratPot" : "89",
-            "ratTalent" : "51",
-            "baselinePrestige" : "75",
-            "name" : "Josh Heupal",
+            "ratPot" : "90",
+            "ratTalent" : "88",
+            "baselinePrestige" : "85",
+            "name" : "Gus Malzhan",
             "contractYear" : "1"
           },
           "name" : "UCF Knights",
@@ -2094,7 +2094,7 @@
           "abbreviation" : "TEM",
           "prestige" : "65",
           "hexColor" : "#700024",
-          "rival" : "UCF",
+          "rival" : "RUT",
           "headCoach" : {
             "contractLength" : "2",
             "startYear" : "2020",
@@ -2264,11 +2264,11 @@
             "contractYear" : "2"
           },
           "name" : "East Carolina Pirates",
-          "state" : "Michigan"
+          "state" : "North Carolina"
         }
       ],
       "confFullName" : "AAC",
-      "confPrestige" : "65",
+      "confPrestige" : "75",
       "confName" : "AAC"
     },
     {
